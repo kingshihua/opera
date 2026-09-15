@@ -1,6 +1,6 @@
-# Memecoin Agents 🐸📈
+# Opera - A Memetic Decoder & Trader Assistant 
 
-A tiny multi-agent system that helps you sanity-check a memecoin before you ape in.
+A 5-part multi-agent system that helps you sanity-check a memecoin before you ape in.
 Five specialized agents each look at one slice of the picture, then get combined
 into a single buy/avoid lean.
 
