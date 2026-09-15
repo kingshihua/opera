@@ -1,5 +1,5 @@
 """
-Config and API key loading.
+Config and API key loading. 
 Copy .env.example to .env and fill in your keys before running.
 """
 
