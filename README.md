@@ -1,5 +1,5 @@
 # Opera - A Trader's Assistant 
-
+ 
 <img src="https://i.ibb.co/YBbXBRht/0e25b924-f695-400e-ac57-40916ccce7d8-1.png" alt="Chucho" width="100" />
 
 A 5-part multi-agent system that helps you sanity-check a memecoin before you ape in.
