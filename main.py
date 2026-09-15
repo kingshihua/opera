@@ -13,7 +13,7 @@ SAMPLE_INPUT = {
              "low sell pressure on dips.",
     "news": "One small crypto blog post mentioning the coin, no major "
             "outlet coverage yet.",
-    "social": "Twitter mentions up 12x in 24h, mix of real accounts and "
+    "social": "Twitter mentions up 12x in 24h,a mix of real accounts and "
               "clearly new/bot-like accounts, Telegram group growing fast.",
     "narrative": "Riffs on a trending internet meme from this week, similar "
                  "coins in this micro-narrative have pumped and dumped within days.",
