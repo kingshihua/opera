@@ -18,7 +18,7 @@ into a single buy/avoid lean.
 | ⛓️ **Onchain** | `agents.py` → `OnchainAgent` | Holder concentration, LP lock status, liquidity depth |
 
 Each agent returns a simple structured verdict:
-
+ 
 ```json
 {"score": 7, "verdict": "cautiously bullish", "reasoning": "..."}
 ```
